@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1518809733 source:c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\cirlce.cpp
+	"cirlce.h"
+
+1518809699 c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\cirlce.h
+	<bits/stdc++.h>
+	"segment.h"
+
+1518804709 c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\point.cpp
+	"point.h"
+
+1518809332 c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\point.h
+	<bits/stdc++.h>
+
+1518803232 source:c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\classes.cpp
+	<bits/stdc++.h>
+	"classes.h"
+
+1518803785 c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\classes.h
+	<bits/stdc++.h>
+
+1518810429 source:c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\main.cpp
+	<bits/stdc++.h>
+	"setOfPoints.h"
+
+1518803232 c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\classes.cpp
+	<bits/stdc++.h>
+	"classes.h"
+
+1518809047 source:c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\point.cpp
+	"point.h"
+
+1518810395 source:c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\setofpoints.cpp
+	"setOfPoints.h"
+
+1518808623 c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\setofpoints.h
+	<bits/stdc++.h>
+	"cirlce.h"
+
+1518808933 source:c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\segment.cpp
+	"segment.h"
+
+1518808666 c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\segment.h
+	"point.h"
+
