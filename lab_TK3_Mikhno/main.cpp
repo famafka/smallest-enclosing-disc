@@ -18,6 +18,5 @@ int main(int argc, char * argv[])
         s.addPoint(point(x, y));
     }
 
-    s.getConvexHull().print();
     s.getSmallestEnclDisc().print();
 }

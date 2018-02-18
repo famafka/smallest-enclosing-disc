@@ -43,3 +43,33 @@
 1518808666 c:\users\Марк\desktop\govno\Задачи\lab_tk3_mikhno\segment.h
 	"point.h"
 
+1518809733 source:c:\users\Марк\documents\github\smallest-enclosing-disc\lab_tk3_mikhno\cirlce.cpp
+	"cirlce.h"
+
+1518809699 c:\users\Марк\documents\github\smallest-enclosing-disc\lab_tk3_mikhno\cirlce.h
+	<bits/stdc++.h>
+	"segment.h"
+
+1518808666 c:\users\Марк\documents\github\smallest-enclosing-disc\lab_tk3_mikhno\segment.h
+	"point.h"
+
+1518809332 c:\users\Марк\documents\github\smallest-enclosing-disc\lab_tk3_mikhno\point.h
+	<bits/stdc++.h>
+
+1518977152 source:c:\users\Марк\documents\github\smallest-enclosing-disc\lab_tk3_mikhno\main.cpp
+	<bits/stdc++.h>
+	"setOfPoints.h"
+
+1518808623 c:\users\Марк\documents\github\smallest-enclosing-disc\lab_tk3_mikhno\setofpoints.h
+	<bits/stdc++.h>
+	"cirlce.h"
+
+1518809047 source:c:\users\Марк\documents\github\smallest-enclosing-disc\lab_tk3_mikhno\point.cpp
+	"point.h"
+
+1518808933 source:c:\users\Марк\documents\github\smallest-enclosing-disc\lab_tk3_mikhno\segment.cpp
+	"segment.h"
+
+1518810395 source:c:\users\Марк\documents\github\smallest-enclosing-disc\lab_tk3_mikhno\setofpoints.cpp
+	"setOfPoints.h"
+
